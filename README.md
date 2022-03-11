@@ -1,5 +1,5 @@
 # bad-bank
-Implement a bank website called bad-bank (because it has no security)
+Implement a bank website called bad-bank (because it has no security)  
 Use Bootstrap.js cards for styling
 
 ## To Execute
