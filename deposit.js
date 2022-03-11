@@ -3,7 +3,7 @@ function Deposit() {
   // return (<h1>Deposit<br/>{JSON.stringify(ctx)}</h1>)
   return (
     <Card
-      bgcolor ="primary"
+      bgcolor ="success"
       txtcolor="white"
       header  ="Deposit"
       title   ="Deposit to Account"

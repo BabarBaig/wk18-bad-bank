@@ -4,7 +4,7 @@ function Withdraw() {
   // {"users":[{"name":"abel","email":"abel@mit.edu","password":"secret","balance":100}]}
   return (
     <Card
-      bgcolor ="primary"
+      bgcolor ="info"
       txtcolor="white"
       header  ="Withdraw"
       title   ="Withdraw from Account"
